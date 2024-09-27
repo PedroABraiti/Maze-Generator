@@ -1,4 +1,5 @@
-**Maze-Generator**
+#Maze-Generator
+
 Um criador de labirintos procedural que apresenta a resolução do mesmo de maneira simples e efetiva.
 
 FUNCIONALIDADES:
