@@ -1,4 +1,4 @@
-#Maze-Generator
+# Maze-Generator
 
 Um criador de labirintos procedural que apresenta a resolução do mesmo de maneira simples e efetiva.
 
@@ -8,6 +8,7 @@ FUNCIONALIDADES:
 
 ➥ Apresentação da resolução do labirinto criado a partir de tracejados.
 
+_____________________________________________________________________________________________________________________________
 
 TECNOLOGIAS UTILIZADAS:
 
