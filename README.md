@@ -2,7 +2,7 @@
 
 Um criador de labirintos procedural que apresenta a resolução do mesmo de maneira simples e efetiva.
 
-FUNCIONALIDADES:
+**FUNCIONALIDADES:**
 
 ➥ Criação procedural de labirintos que sempre garante uma solução possivél, além de sempre apresentar um labirinto novo.
 
@@ -10,7 +10,7 @@ FUNCIONALIDADES:
 
 _____________________________________________________________________________________________________________________________
 
-TECNOLOGIAS UTILIZADAS:
+**TECNOLOGIAS UTILIZADAS:**
 
 ➦ Python: Linguagem de programação utilizada.
 
