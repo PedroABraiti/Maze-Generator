@@ -8,6 +8,9 @@ Um criador de labirintos procedural que apresenta a resolução do mesmo de mane
 
 ➥ Apresentação da resolução do labirinto criado a partir de tracejados.
 
+![image](https://github.com/user-attachments/assets/4e23d0e5-a8e2-43a8-8bb9-b6660d2f1169)
+
+
 _____________________________________________________________________________________________________________________________
 
 **TECNOLOGIAS UTILIZADAS:**
